@@ -27,7 +27,7 @@ console.log(frutas);
 
 //quarta lição//
 const virgulaFrutas = frutas.join(", ");
-console.log(textoFrutas);
+console.log(virgulaFrutas);
 
 const frutasSelecionadas = frutas.slice(1, 3);
 console.log(frutasSelecionadas);
